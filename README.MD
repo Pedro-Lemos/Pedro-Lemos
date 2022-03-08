@@ -8,7 +8,7 @@
 
 
 - 🔭 Atualmente estou à procura do meu primeiro emprego na área!
-- 🌱 Possuo conhecimento de JavaScript, HTML e CSS, e estou aprendendo mais a cada dia!
+- 🌱 Possuo conhecimento de linguagens Front-End e Back-End, Fullstack!
 - 👯 Já fui designer gráfico freelancer e possuo conhecimento de Photoshop e Illustrator.
 - 🥅 Metas de 2022: Conseguir meu primeiro emprego como Front-End e desenvolver grandes projetos!
 - ⚡ Fatos sobre mim: Já fui campeão municipal de Xadrez, pratico basquete e nasci em 2003.
