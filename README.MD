@@ -1,6 +1,6 @@
-### Olá! Prazer, me chamo Pedro e sou um Desenvolvedor Front-End Júnior 👋
+### Olá! Prazer, me chamo Pedro e sou um Desenvolvedor Júnior 👋
 
-### Hi there, I'm Pedro and I'm a Front-End Developer Júnior 👋
+### Hi there, I'm Pedro and I'm a Developer Júnior 👋
 
 <h4 align="center">
  
@@ -8,9 +8,9 @@
 
 
 - 🔭 Atualmente estou à procura do meu primeiro emprego na área!
-- 🌱 Possuo conhecimento de linguagens Front-End e Back-End, Fullstack!
-- 👯 Já fui designer gráfico freelancer e possuo conhecimento de Photoshop e Illustrator.
-- 🥅 Metas de 2022: Conseguir meu primeiro emprego como Front-End e desenvolver grandes projetos!
+- 🌱 Possuo conhecimento de linguagens Front-End e Back-End, Mobile e Game Design!
+- 👯 Já fui designer gráfico freelancer e possuo conhecimento de Photoshop, Illustrator e inDesign.
+- 🥅 Metas de 2022: Conseguir meu primeiro emprego como Desenvolvedor e participar dos meus primeiros grandes projetos!
 - ⚡ Fatos sobre mim: Já fui campeão municipal de Xadrez, pratico basquete e nasci em 2003.
 
 ### Minhas redes sociais / My social medias:
