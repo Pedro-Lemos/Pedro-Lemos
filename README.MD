@@ -1,16 +1,16 @@
-### Olá! Prazer, me chamo Pedro e sou um Desenvolvedor Júnior 👋
+### Olá! Prazer, me chamo Pedro e sou um Eng. de Cybersecurity 👋
 
-### Hi there, I'm Pedro and I'm a Developer Júnior 👋
+### Hi there, I'm Pedro and I'm a Cybersecurity Enginneer 👋
 
 <h4 align="center">
  
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 
-- 🔭 Atualmente estou à procura do meu primeiro emprego na área!
-- 🌱 Possuo conhecimento de linguagens Front-End e Back-End, Mobile e Game Design!
+- 🔭 Atualmente trabalho no Itaú Unibanco com Dados & Analytics!
+- 🌱 Estudo Análise e Desenvolvimento de Sistemas na PUC - MINAS!
 - 👯 Já fui designer gráfico freelancer e possuo conhecimento de Photoshop, Illustrator e inDesign.
-- 🥅 Metas de 2022: Conseguir meu primeiro emprego como Desenvolvedor e participar dos meus primeiros grandes projetos!
+- 🥅 Metas de 2023: Ser efetivado e participar dos meus primeiros grandes projetos!
 - ⚡ Fatos sobre mim: Já fui campeão municipal de Xadrez, pratico basquete e nasci em 2003.
 
 ### Minhas redes sociais / My social medias:
