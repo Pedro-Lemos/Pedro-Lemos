@@ -1,6 +1,6 @@
-### Olá! Prazer, me chamo Pedro e sou um Eng. de Cybersecurity 👋
+### Olá! Prazer, me chamo Pedro e trabalho com Data & Analytics 👋
 
-### Hi there, I'm Pedro and I'm a Cybersecurity Enginneer 👋
+### Hi there, I'm Pedro and I'm a Data Analysis 👋
 
 <h4 align="center">
  
