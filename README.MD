@@ -8,7 +8,7 @@
 
 
 - 🔭 Atualmente trabalho no Itaú Unibanco com Dados & Analytics!
-- 🌱 Estudo Análise e Desenvolvimento de Sistemas na PUC - MINAS!
+- 🌱 Estudo Ciência da Computação na FECAP!
 - 👯 Já fui designer gráfico freelancer e possuo conhecimento de Photoshop, Illustrator e inDesign.
 - 🥅 Metas de 2023: Ser efetivado e participar dos meus primeiros grandes projetos!
 - ⚡ Fatos sobre mim: Já fui campeão municipal de Xadrez, pratico basquete e nasci em 2003.
