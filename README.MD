@@ -1,6 +1,6 @@
-### Olá! Prazer, me chamo Pedro e trabalho com Data & Analytics 👋
+### Olá! Prazer, me chamo Pedro e sou Engenheiro de Software 👋
 
-### Hi there, I'm Pedro and I'm a Data Analysis 👋
+### Hi there, I'm Pedro and I'm a Software Engineer 👋
 
 <h4 align="center">
  
