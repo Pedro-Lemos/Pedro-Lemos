@@ -7,11 +7,8 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 
-- 🔭 Atualmente trabalho no Itaú Unibanco com Dados & Analytics!
-- 🌱 Estudo Ciência da Computação na FECAP!
-- 👯 Já fui designer gráfico freelancer e possuo conhecimento de Photoshop, Illustrator e inDesign.
-- 🥅 Metas de 2023: Ser efetivado e participar dos meus primeiros grandes projetos!
-- ⚡ Fatos sobre mim: Já fui campeão municipal de Xadrez, pratico basquete e nasci em 2003.
+- 🔭 Atualmente trabalho no Itaú Unibanco como Engenheiro de Software Jr!
+- 🌱 Estudo Ciência da Computação.
 
 ### Minhas redes sociais / My social medias:
 
