@@ -60,7 +60,7 @@
 
 
 
-### Minhas redes sociais / My social medias:
+### Contatos / Contacts:
 
 [<img align="left" alt="LinkedIn | Pedro Lemos" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color: #0A66C2; margin-right: 15px;" />][linkedin]
 [<img align="left" alt="GitHub | Pedro Lemos" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="color: #181717; margin-right: 15px;" />][github]
