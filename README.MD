@@ -62,8 +62,9 @@
 
 ### Minhas redes sociais / My social medias:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="margin-right: 10px;" />][linkedin]
-[<img align="left" alt="GitHub | Pedro Lemos" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="LinkedIn | Pedro Lemos" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color: #0A66C2; margin-right: 15px;" />][linkedin]
+[<img align="left" alt="GitHub | Pedro Lemos" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="color: #181717; margin-right: 15px;" />][github]
+[<img align="left" alt="Gmail | Pedro Lemos" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" style="color: #EA4335; margin-right: 15px;" />][gmail]
 
 <br />
 <br />
@@ -73,3 +74,4 @@
 
 [linkedin]: https://www.linkedin.com/in/pedro-lemos-a7b77b192/
 [github]: https://github.com/Pedro-Lemos
+[gmail]: mailto:pedro.hlemos2003@gmail.com
