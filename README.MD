@@ -6,12 +6,12 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 
-- 🔭 Atualmente trabalho no Itaú Unibanco como Engenheiro de Software Jr., onde participo do desenvolvimento de soluções escaláveis e resilientes utilizando **Java**, **Kotlin**, **AWS**, **Docker** e **CI/CD**.
+- 🔭 Atualmente trabalho no Itaú Unibanco como Engenheiro de Software Pleno., onde participo do desenvolvimento de soluções escaláveis e resilientes utilizando **Java**, **Kotlin**, **AWS**, **Docker** e **CI/CD**.
 - 🌱 Faço graduação no curso de Ciência da Computação na FECAP, com foco em **algoritmos**, **estruturas de dados**, e **desenvolvimento de software**.
-- 🚀 Em constante aprendizado, estou me preparando para a certificação **AWS Associate Solutions Architech** para aprofundar meus conhecimentos em nuvem e desenvolvimento de software.
+- 🚀 Em constante aprendizado, estou me preparando para a certificação **AWS Associate Solutions Architect** para aprofundar meus conhecimentos em nuvem e desenvolvimento de software.
 - 💼 Projetos pessoais incluem o desenvolvimento de um **aplicativo Android** estilo **Uber**, utilizando **Java** e **API do Google Maps**. Além de desafios diários do leetcode.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- 🔭 I currently work at Itaú Unibanco as a Junior Software Engineer, where I participate in the development of scalable and resilient solutions using **Java**, **Kotlin**, **AWS**, **Docker**, and **CI/CD**.
+- 🔭 I currently work at Itaú Unibanco as a Software Engineer, where I participate in the development of scalable and resilient solutions using **Java**, **Kotlin**, **AWS**, **Docker**, and **CI/CD**.
 - 🌱 I am pursuing a degree in Computer Science at FECAP, focusing on **algorithms**, **data structures**, and **software development**.
 - 🚀 I am continuously learning and preparing for the **AWS Associate Solutions Architect** certification to deepen my knowledge in cloud computing and software development.
 - 💼 My personal projects include developing an **Android app** similar to **Uber**, using **Java** and **Google Maps API**, as well as solving daily challenges on LeetCode.
