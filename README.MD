@@ -6,6 +6,9 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 
+- ATENÇÃO!!!!
+- Conheça meu mais novo portfolio: https://portfolio-xp-rho.vercel.app
+
 - 🔭 Atualmente trabalho no Itaú Unibanco como Engenheiro de Software Pleno., onde participo do desenvolvimento de soluções escaláveis e resilientes utilizando **Java**, **Kotlin**, **AWS**, **Docker** e **CI/CD**.
 - 🌱 Faço graduação no curso de Ciência da Computação na FECAP, com foco em **algoritmos**, **estruturas de dados**, e **desenvolvimento de software**.
 - 🚀 Em constante aprendizado, estou me preparando para a certificação **AWS Associate Solutions Architect** para aprofundar meus conhecimentos em nuvem e desenvolvimento de software.
