@@ -7,7 +7,8 @@
 
 
 #### ATENÇÃO!!!!
-- Conheça meu mais novo portfolio: https://portfolio-xp-rho.vercel.app
+- Conheça meu mais novo portfolio: https://www.pedro-lemos.dev
+- See my new profile website: https://www.pedro-lemos.dev
 
 ### Sobre mim:
 
